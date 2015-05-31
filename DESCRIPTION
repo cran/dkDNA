@@ -1,15 +1,15 @@
 Package: dkDNA
 Type: Package
-Title: Diffusion kernels on a set of genotypes.
-Version: 0.1.0
-Date: 2012-04-19
+Title: Diffusion Kernels on a Set of Genotypes
+Version: 0.1.1
+Date: 2015-05-31
 Author: Gota Morota and Masanori Koyama
-Maintainer: Gota Morota <morota@ansci.wisc.edu>
-Description: Compute diffusion kernels on DNA polymorphisms, including
-        SNP and bi-allelic genotypes.
+Maintainer: Gota Morota  <morota@unl.edu>
+Description: Compute diffusion kernels on DNA polymorphisms, including SNP and bi-allelic genotypes. 
 License: GPL-2
-URL: http://www.ansci.wisc.edu/morota/
+URL: http://morotalab.org/
 ByteCompile: true
-Packaged: 2012-04-19 20:27:26 UTC; gota
+Packaged: 2015-05-31 16:25:05 UTC; gota
+NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2012-04-20 04:55:39
+Date/Publication: 2015-06-01 01:05:22
